@@ -2,4 +2,4 @@
 some comments
 or remarks in the readme.md file
 
-![alt-text](C:\hkust\comp3111\screenshot.png "optional-title")
+<img src="C:\hkust\comp3111\lab1\Comp3111LEx\src\screenshot.png"/>
